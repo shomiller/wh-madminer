@@ -1,0 +1,2 @@
+import model SMEFTsim
+generate p p > w- h > e- ve~ b b~ QCD=0 QED=99 NP=1
